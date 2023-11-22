@@ -1,0 +1,9 @@
+body {
+	background: #141414;
+	color: #ffffff;
+}
+
+.moviex > .row {
+	overflow-x: auto;
+	flex-wrap: nowrap;
+}
